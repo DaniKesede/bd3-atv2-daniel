@@ -357,7 +357,7 @@ db[collection].insertMany(
           },
           {
             "Nome do Produto": "Drone com Câmera",
-            "Valor (R$)": 2.499,
+            "Valor (R$)": 2499,
             "Quantidade em Estoque": 8,
             "Fabricante": "SkyView",
             "Categoria": "Eletrônicos",
@@ -365,7 +365,7 @@ db[collection].insertMany(
           },
           {
             "Nome do Produto": "Console de Videogame",
-            "Valor (R$)": 3.499,
+            "Valor (R$)": 3599,
             "Quantidade em Estoque": 5,
             "Fabricante": "GameStation",
             "Categoria": "Eletrônicos",
@@ -389,7 +389,7 @@ db[collection].insertMany(
           },
           {
             "Nome do Produto": "Placa de Vídeo",
-            "Valor (R$)": 1.599,
+            "Valor (R$)": 1599,
             "Quantidade em Estoque": 10,
             "Fabricante": "GraphicPro",
             "Categoria": "Informática",
